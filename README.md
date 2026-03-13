@@ -20,6 +20,14 @@ The framework explores how infrastructure and human workflows can be structured 
 
 ---
 
+## QuietStack Framework Overview
+
+The QuietStack framework connects philosophy, architecture, workflow, and implementation into a coherent system for designing calm and sovereign digital environments.
+
+![QuietStack Framework Map](architecture/quietstack-framework-map-v1.svg)
+
+---
+
 ## Core Principles
 
 QuietStack is guided by several principles:
