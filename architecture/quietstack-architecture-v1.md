@@ -1,4 +1,8 @@
+
+
 # QuietStack Reference Architecture v1
+
+![QuietStack Architecture](quietstack-architecture-v1.svg)
 
 QuietStack proposes a structured approach to designing calm, sovereign, and privacy-respecting digital environments.
 
