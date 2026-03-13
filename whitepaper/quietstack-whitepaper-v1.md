@@ -10,6 +10,14 @@ QuietStack proposes an alternative direction: digital infrastructure that is cal
 
 ---
 
+## QuietStack Framework Overview
+
+The QuietStack framework integrates philosophy, architecture, workflow, and practical implementations into a structured approach to digital sovereignty.
+
+![QuietStack Framework Map](../architecture/quietstack-framework-map-v1.svg)
+
+---
+
 ## The Problem with Modern Digital Environments
 
 Over the past decade, digital systems have become deeply integrated into everyday life. Communication, work, storage, and identity increasingly rely on centralized platforms operated by a small number of large service providers.
