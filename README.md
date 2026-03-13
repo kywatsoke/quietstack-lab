@@ -86,20 +86,24 @@ The stack defines recommended tool categories and example implementations for se
 
 ## Project Structure
 
-quietstack-lab
+Current repository layout:
+
+```
+quietstack-lab/
 │
 ├── manifesto.md
 ├── roadmap.md
 │
-├── architecture
-│ └── quietstack-architecture-v1.md
+├── architecture/
+│   └── quietstack-architecture-v1.md
 │
-├── whitepaper
-│ └── quietstack-whitepaper-v1.md
+├── whitepaper/
+│   └── quietstack-whitepaper-v1.md
 │
-└── docs
-├── quietstack-mode.md
-└── quietstack-professional-stack-v1.md
+└── docs/
+    ├── quietstack-mode.md
+    └── quietstack-professional-stack-v1.md
+```
 
 ---
 
