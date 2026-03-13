@@ -89,10 +89,12 @@ The stack defines recommended tool categories and example implementations for se
 Current repository layout:
 
 ```
-quietstack-lab/
+quietstack-lab
 │
+├── README.md
 ├── manifesto.md
 ├── roadmap.md
+├── CONTRIBUTING.md
 │
 ├── architecture/
 │   └── quietstack-architecture-v1.md
@@ -102,7 +104,9 @@ quietstack-lab/
 │
 └── docs/
     ├── quietstack-mode.md
-    └── quietstack-professional-stack-v1.md
+    ├── quietstack-professional-stack-v1.md
+    ├── quietstack-first-implementation.md
+    └── project-map.md
 ```
 
 ---
