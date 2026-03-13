@@ -1,3 +1,9 @@
+## QuietStack Framework Map
+
+![QuietStack Framework Map](../architecture/quietstack-framework-map-v1.svg)
+
+---
+
 # QuietStack Project Map
 
 This document provides an overview of how the QuietStack framework is structured.
